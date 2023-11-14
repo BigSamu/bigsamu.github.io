@@ -1,12 +1,11 @@
-import React, { useContext } from 'react';
-import ToastContext from '../contexts/ToastContext';
+import React, { useContext } from "react";
+import ToastContext from "../contexts/ToastContext";
 
-import SectionTitle from './SectionTitle';
-import axios from 'axios';
+import SectionTitle from "./SectionTitle";
+import axios from "axios";
 
 function Contact() {
   const { showToast } = useContext(ToastContext);
-  
 
   async function handleSubmit(e) {
     e.preventDefault(); // Prevent the default form submission behavior
@@ -18,19 +17,19 @@ function Contact() {
     try {
       const response = await axios.post(form.action, formData, {
         headers: {
-          Accept: 'application/json',
+          Accept: "application/json",
         },
       });
 
       if (response.status === 200) {
-        showToast('Message sent successfully!', 'success');
+        showToast("Message sent successfully!", "success");
         // Reset the form if needed
         form.reset();
       } else {
-        showToast('Error submitting Message. Please try again.', 'error');
+        showToast("Error submitting Message. Please try again.", "error");
       }
     } catch (error) {
-      showToast('Error submitting Message. Please try again.','error');
+      showToast("Error submitting Message. Please try again.", "error");
     }
   }
 
@@ -40,7 +39,7 @@ function Contact() {
         <SectionTitle>Contact Me</SectionTitle>
         <p className="text-justify pb-3">
           If you want to contanct me 📮, you can use the form below or send me
-          an email 📧 to{' '}
+          an email 📧 to{" "}
           <a
             className="underline text-blue-600 hover:text-blue-900 dark:text-blue-300 dark:hover:text-blue-500 "
             href="mailto:valdesgutierrez@gmail.com"
