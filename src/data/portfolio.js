@@ -6,7 +6,7 @@ export default [
     repo: "https://github.com/BigSamu/Macaroons_Demo",
     demo: "https://macaroons-demo.vercel.app",
     details:
-      "A demo of macaroon tokens, a Google invention credential with contextual caveats for decentralized authorization and delegation. Application introduces the use of first-party caveats and is built with NextJS and FastAPI frameworks.",
+      "A demo project for exemplifying the use of macaroon tokens, a Google’s invention that incorporate contextual caveats for decentralized authorization.  Application introduces the use of first-party caveats and is built with NextJS and FastAPI frameworks.",
     type: "Solo Project (2023)",
   },
   {
