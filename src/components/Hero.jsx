@@ -28,9 +28,7 @@ const Intro = () => {
         <p className="text-sm max-w-xl mb-3 font-bold">
           Engineer with 6+ years of experience in Finance and Hardware
           solutions, concluding a career shift into Software Engineering. Avid
-          learner and self-disciplined with solid communication skills. Looking
-          for entry-level positions in high-performant Software Engineering
-          teams, preferably working with Full-Stack technologies.
+          learner and self-disciplined with solid communication skills.
         </p>
 
         <div className="flex flex-col md:flex-row items-center md:gap-x-1">
