@@ -1,11 +1,11 @@
 export default [
   {
     year: "Today",
-    title: "Contributor",
+    title: "Software Engineer",
     institution: "OpenSearch - AWS",
     duration: "1 mos",
     details:
-      "Contributor of OpenSearch library, an AWS open-source tool for data-intensive solutions. focusing on improving code for OpenSearch Dashboards, UI Framework, and Documentation projects.",
+      "Open-Source contributor in OpenSearch Project, an AWS open-source tool for data-intensive solutions. Currently working on libraries for OpenSearch Dashboards, UI Framework, and Documentation projects.",
   },
   {
     year: "Today",
