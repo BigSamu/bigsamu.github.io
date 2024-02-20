@@ -13,7 +13,7 @@ export default [
     institution: "Coding Dojo LATAM",
     duration: "5 mos",
     details:
-      "During 2023, I was promoted as a Lead Instructor for LATAM subsidiary of Coding Dojo delivering an intensive course on Web Fundamentals (HTML, CSS, JS) and MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) technologies.",
+      "Promoted to Lead Instructor at Coding Dojo LATAM, I spearheaded an intensive Web Fundamentals and MERN stack course, guiding LATAM students through HTML, CSS, JS, MongoDB, ExpressJS, ReactJS, and NodeJS technologies, leveraging my technical expertise to nurture the next generation of developers.",
   },
   {
     year: "2021",
@@ -21,7 +21,7 @@ export default [
     institution: "Coding Dojo",
     duration: "1 yr 9 mos",
     details:
-      "As a Assistant Instructor, I tutored 100+ students, helping them transition into full-stack development. I supported their learning in Python/Flask, Java/Spring Boot, and MERN stacks, ensuring their success.",
+      "As Assistant Instructor, I mentored over 100 students, facilitating their journey to becoming full-stack developers with a focus on Python/Flask, Java/Spring Boot, and MERN stacks. My dedication to student success laid the groundwork for my advancement to Lead Instructor.",
   },
   {
     year: "2022",
@@ -29,7 +29,7 @@ export default [
     institution: "Imperial College London",
     duration: "2 yrs",
     details:
-      "I graduated with a Merit degree (70.91%) and achieved Distinction in thesis research. I also served as a student representative for 100+ student fellows during my 1st academic year.",
+      "Achieving a Merit degree and a Distinction in my thesis research at Imperial College London, I represented over 100 peers as a student representative, demonstrating leadership while advancing my expertise in computing science areas.",
   },
   {
     year: "2020",
@@ -37,7 +37,7 @@ export default [
     institution: "Coding Dojo",
     duration: "10 mos",
     details:
-      "I completed a 10-month online programming course, learning practical skills for web development, including HTML, CSS, JavaScript, Python, Java, and other technologies.",
+      "I completed an immersive 10-month programming course at Coding Dojo, acquiring hands-on skills in web development across various technologies, including HTML, CSS, JavaScript, Python, and Java, setting a solid foundation into the fields of Full-Stack Development.",
   },
   {
     year: "2017",
@@ -45,7 +45,7 @@ export default [
     institution: "Credicorp Capital",
     duration: "2 yrs 5 mos",
     details:
-      "I improved expense allocation procedures, saving over CLP$ 100MM, streamlined P&L reporting for better efficiency, and provided valuable insights for cost-reduction decisions. I completed an 8-week online course given by the Saïd Business School focused on fundamentals of Fintech ecosystems and related innovations.",
+      "At Credicorp Capital, I optimized expense allocation procedures, saving over CLP$ 100MM, streamlined P&L reporting for better efficiency, and provided valuable insights for cost-reduction decisions.",
   },
   {
     year: "2016",
@@ -53,7 +53,7 @@ export default [
     institution: "Hewlett Packard Enterprise",
     duration: "1 yr 5 mos",
     details:
-      "I designed and implemented $50M data center solutions, drove loyalty for HPE products, and deepened my understanding of server and storage infrastructure technologies.",
+      "I engineered $50M data center solutions at HPE, fostering product loyalty and deepening my technical proficiency in server and storage infrastructures, which enriched my capabilities in delivering enterprise-level solutions.",
   },
   {
     year: "2014",
@@ -61,7 +61,7 @@ export default [
     institution: "IBM",
     duration: "1 yr 8 mos",
     details:
-      "I delivered $20M enterprise networking, VoIP, and wireless infrastructure solutions, managing pre-sales designs using Cisco technologies.",
+      "At IBM, I architected $20M in networking solutions, specializing in pre-sales designs with Cisco technologies. This role was instrumental in honing my skills in enterprise networking, VoIP, and wireless infrastructures.",
   },
   {
     year: "2013",
@@ -69,7 +69,7 @@ export default [
     institution: "Endurance Investments S.A.",
     duration: "10 mos",
     details:
-      "I restructured and standardized a new accounting system for a subsidiary, providing critical P&L insights to the owners.",
+      "I spearheaded the restructuring of a new accounting system, delivering essential P&L insights and laying the foundation for my future roles in technology and finance by demonstrating my analytical prowess and problem-solving skills.",
   },
   {
     year: "2013",
@@ -77,6 +77,6 @@ export default [
     institution: "Pontificia Universidad Católica de Chile",
     duration: "7 yrs",
     details:
-      "I graduated with a 6.0/7.0 (top 6% of the class) in Mechanical Engineering with a minor in Automation and Control Systems. I tutored 100+ students as a TA and played for the university soccer team. I studied for 7 months at UC San Diego through an exchange program and received the Miguel Velez scholarship for Latin American students. I collaborated on prototyping an electromechanical seed for a sensor network proof of concept and was awarded a Science and Technology scholarship by the Chilean government.",
+      "Graduating top 6% of my class, I excelled in Mechanical Engineering with a focus on Automation and Control Systems. My participation in a UC San Diego exchange program, tutoring, and involvement in sensor network projects showcased my commitment to engineering excellence and innovation.",
   },
 ];
