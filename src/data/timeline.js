@@ -3,17 +3,17 @@ export default [
     year: "Today",
     title: "Software Engineer",
     institution: "OpenSearch - AWS",
-    duration: "1 mos",
-    details:
-      "Open-Source contributor in OpenSearch Project, an AWS open-source tool for data-intensive solutions. Currently working on libraries for OpenSearch Dashboards, UI Framework, and Documentation projects.",
-  },
-  {
-    year: "Today",
-    title: "Lead Instructor",
-    institution: "Coding Dojo LATAM",
     duration: "6 mos",
     details:
-      "Delivering comprehensive intensive courses on Web Fundamentals (HTML, CSS, JS) and MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) technologies to students with no or minimal knowledge in full-stack development.",
+      "Nowdays, I am an open-Source contributor in OpenSearch Project, an AWS open-source tool for data-intensive solutions. Currently I am bringing support on libraries for OpenSearch Dashboards, UI Framework, and Documentation projects.",
+  },
+  {
+    year: "2023",
+    title: "Lead Instructor",
+    institution: "Coding Dojo LATAM",
+    duration: "5 mos",
+    details:
+      "During 2023, I was promoted as a Lead Instructor for LATAM subsidiary of Coding Dojo delivering an intensive course on Web Fundamentals (HTML, CSS, JS) and MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS) technologies.",
   },
   {
     year: "2021",
@@ -29,7 +29,7 @@ export default [
     institution: "Imperial College London",
     duration: "2 yrs",
     details:
-      "I graduated with Merit (70.91%) and achieved Distinction in thesis research. I also served as a student representative for 100+ student fellows during my 1st academic year.",
+      "I graduated with a Merit degree (70.91%) and achieved Distinction in thesis research. I also served as a student representative for 100+ student fellows during my 1st academic year.",
   },
   {
     year: "2020",
