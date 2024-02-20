@@ -7,7 +7,7 @@ import {
   DiDjango, DiRuby, DiPostgresql, DiMysql, DiSqllite
 } from 'react-icons/di';
 import {
-  SiJavascript, SiTypescript, SiJquery, SiSwiper, SiGooglefonts,SiFontawesome, SiNextdotjs, SiVite, SiTailwindcss, SiCplusplus, SiExpress, SiSpring, SiFastapi, SiFlask, SiMongodb, SiSolidity, SiRubysinatra, SiPypi, SiMui, SiOpenai, SiRedux, SiJsonwebtokens, SiWireshark, SiVercel
+  SiJavascript, SiTypescript, SiJquery, SiSwiper, SiGooglefonts,SiFontawesome, SiNextdotjs, SiVite, SiTailwindcss, SiCplusplus, SiExpress, SiSpring, SiFastapi, SiFlask, SiMongodb, SiSolidity, SiRubysinatra, SiPypi, SiMui, SiOpenai, SiRedux, SiJsonwebtokens, SiWireshark, SiVercel, SiGithubactions, SiJest
 } from 'react-icons/si';
 import {
   TbBrandVscode
@@ -28,7 +28,7 @@ export const getTechnologyIcon = (technology) => {
     'Sass': <FaSass />,
     'FontAwesome': <SiFontawesome />,
     'Google Fonts': <SiGooglefonts />,
-    
+
     // Frameworks and libraries
     'ReactJS': <FaReact />,
     'NodeJS': <FaNodeJs />,
@@ -46,7 +46,9 @@ export const getTechnologyIcon = (technology) => {
     'Redux': <SiRedux />,
     'JQuery': <SiJquery />,
     'Swiper': <SiSwiper/>,
-    
+
+    // Testing
+    'Jest': <SiJest />,
 
     // Databases
     'MongoDB': <SiMongodb />,
@@ -54,7 +56,7 @@ export const getTechnologyIcon = (technology) => {
     'PostgresSQL': <DiPostgresql />,
     'MySQL': <DiMysql />,
     'Ethereum': <FaEthereum />,
-    
+
     // Softwares and Platforms
     'Github': <FaGithub />,
     'VSCode': <TbBrandVscode />,
@@ -68,6 +70,9 @@ export const getTechnologyIcon = (technology) => {
     'OAuth': <img src="https://static-00.iconduck.com/assets.00/oauth-icon-512x511-baa2vilm.png"/>,
     'JWT': <SiJsonwebtokens/>,
     'Wireshrak': <SiWireshark/>,
+
+    // CI/CD
+    'Github Actions': <SiGithubactions/>,
 }
 
 

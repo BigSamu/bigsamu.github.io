@@ -3,7 +3,7 @@ export default [
     title: "OpenSearch Changelog Workflow and Release Notes Process",
     imgUrl: "/assets/projects/opensearch-changelog-bot.png",
     stack: [
-      "Javascript",
+      "JavaScript",
       "NodeJS",
       "ExpressJS",
       "Jest",
@@ -12,7 +12,7 @@ export default [
     ],
     repo: "https://github.com/BigSamu/OpenSearch_Changelog_Workflow",
     details:
-      "An automated workflow for generating changelogs and release notes for OpenSearch projects. The project is powered by GitHub Actions and uses a custom bots to speed up automation process.",
+      "An automated workflow for generating changelogs and release notes for OpenSearch libraries. The project is powered by GitHub Actions and uses a custom bots to speed up automation process.",
     type: "OpenSearch Project - OSCI Initiative",
   },
   {
